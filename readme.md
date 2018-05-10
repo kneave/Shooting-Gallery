@@ -33,6 +33,8 @@ The backboard is was lasercut at rlab.org.uk out of transparent acrylic.  When I
 
 The majority of components in this game are 3D printed, as mentioned above they are scaled for the size my board ended up being rather than designed so triple check that everything will match and learn from my mistake!  
 
+I need to go through the files and list out what they are for, a bit of detective work should make the use of most of them easy to deduce though I hope...  If not and if I've not updated this, prod me on [@neaveeng](https://www.twitter.com/neaveeng)
+
 ## QTR-1A IR Sensors
 I had a bunch of these sensors and I though that they'd be a great fit for this game, the target would never physically hit the sensor so should improve reliability.  Fantastic idea in theory, in practice it worked at home but not when I took it to the beer festival.  The fest is held in a large marquee outdoors and the fiery sun god was angry that weekend.  The IR from the sun swamped the sensors and rendered them useless until I cobbled together an enclosure for it using a cardboard box, gaffer tape and a few black bin bags.
 In the code there are two sets of sensitivity levels for the sensors, day and night, use them accordingly.  If you're only going to use this indoors you should be fine.
